@@ -2,6 +2,7 @@
   "name": "javascript-development",
   "displayName": "Javascript Development",
   "publisher": "aalpgiray",
+  "repository": "https://github.com/aalpgiray/vscode-javascript-development-extension-pack",
   "description": "",
   "version": "0.0.1",
   "engines": {
