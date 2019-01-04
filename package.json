@@ -1,0 +1,25 @@
+{
+  "name": "javascript-development",
+  "displayName": "Javascript Development",
+  "publisher": "aalpgiray",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.30.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "christian-kohler.npm-intellisense",
+    "DavidAnson.vscode-markdownlint",
+    "vscode.vscode-typescript-tslint-plugin",
+    "eamodio.gitlens",
+    "eg2.vscode-npm-script",
+    "esbenp.prettier-vscode",
+    "maty.vscode-mocha-sidebar",
+    "msjsdiag.debugger-for-chrome",
+    "PeterJausovec.vscode-docker",
+    "VisualStudioExptTeam.vscodeintellicode"
+  ]
+}
